@@ -1,5 +1,5 @@
 
-# <div align="center"> GDG Mobile App Development Track </div>
+# <div align="center"> GDG Mobile App Development Track Campaign </div>
                              
 ### Phase 1: pre-campaign phase (GDG Tracks are coming)!
 - "Introducing GDG Tracks: Elevate Your Developer Skills with Our Specialized Workshops!"
