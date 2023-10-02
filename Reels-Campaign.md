@@ -39,8 +39,3 @@
 - Share any notable statistics or achievements from the campaign.
 - Encourage users to continue engaging with your GDG Assiut Facebook page.
 
-Throughout the campaign, ensure that your Reels are well-produced, visually appealing, and provide value to your audience. Monitor engagement, track metrics, and adjust your content strategy as needed to maximize the campaign's impact.
-
-Remember to stay active, respond to comments, and maintain a consistent brand voice throughout the campaign.
-
-Best of luck with your Reels campaign!
