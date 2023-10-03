@@ -3,25 +3,23 @@
 ## Phase 1: Pre-campaign Preparation
 
 - Define our campaign goals: Increase awareness, drive engagement, or encourage user-generated content related to the Reels from the event.
-- Identify our target audience: Developers, tech enthusiasts, or those interested in Google technologies.
+- Identify our target audience: Developers, Senior students, or those interested in Google technologies.
 - Create a content plan: Determine the types of Reels we want to promote (e.g., event highlights, speaker snippets, behind-the-scenes, attendee experiences).
 
 ## Phase 2: Reels Teasers and Announcements
 
 - Craft engaging posts to create anticipation for the Reels content.
-- Share teaser snippets or screenshots from the Reels.
-- Announce the release date and time of the Reels.
+- Share teaser snippets video from the Reels.
 - Encourage users to follow our GDG Assiut Facebook page to stay updated.
 
 ## Phase 3: Speaker Insights and Reels Previews
 
 - Feature short video clips of speakers discussing key insights or takeaways from their sessions.
 - Share glimpses of the Reels content, showcasing the most captivating moments.
-- Provide brief descriptions of each Reel and its relevance to the event.
+- Provide the title of each Reel in the video.
 
 ## Phase 4: Reels Release and Promotion
 
-- Announce the official release of the Reels content.
 - Share the Reels on our GDG Assiut Facebook page, ensuring they are easily accessible and shareable.
 - Encourage users to like, comment, and share the Reels with their networks.
 - Utilize relevant hashtags and tags to reach a wider audience.
@@ -30,11 +28,8 @@
 
 - Prompt users to engage with the Reels by asking questions or inviting comments.
 - Respond to comments and engage in conversations.
-- Encourage users to create their own Reels inspired by the event and share them using specific hashtags.
 
 ## Phase 6: Post-campaign Recap and Gratitude
 
 - Summarize the success of the Reels campaign with a final post.
-- Express gratitude to the viewers, participants, and contributors.
-- Share any notable statistics or achievements from the campaign.
 - Encourage users to continue engaging with our GDG Assiut Facebook page.
