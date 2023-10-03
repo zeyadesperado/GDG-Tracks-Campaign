@@ -1,17 +1,17 @@
-# Reels Mixin Campaign 
+# Reels Mixin Campaign
 
 ## Phase 1: Pre-campaign Preparation
 
-- Define your campaign goals: Increase awareness, drive engagement, or encourage user-generated content related to the Reels from the event.
-- Identify your target audience: Developers, tech enthusiasts, or those interested in Google technologies.
-- Create a content plan: Determine the types of Reels you want to promote (e.g., event highlights, speaker snippets, behind-the-scenes, attendee experiences).
+- Define our campaign goals: Increase awareness, drive engagement, or encourage user-generated content related to the Reels from the event.
+- Identify our target audience: Developers, tech enthusiasts, or those interested in Google technologies.
+- Create a content plan: Determine the types of Reels we want to promote (e.g., event highlights, speaker snippets, behind-the-scenes, attendee experiences).
 
 ## Phase 2: Reels Teasers and Announcements
 
 - Craft engaging posts to create anticipation for the Reels content.
 - Share teaser snippets or screenshots from the Reels.
 - Announce the release date and time of the Reels.
-- Encourage users to follow your GDG Assiut Facebook page to stay updated.
+- Encourage users to follow our GDG Assiut Facebook page to stay updated.
 
 ## Phase 3: Speaker Insights and Reels Previews
 
@@ -22,7 +22,7 @@
 ## Phase 4: Reels Release and Promotion
 
 - Announce the official release of the Reels content.
-- Share the Reels on your GDG Assiut Facebook page, ensuring they are easily accessible and shareable.
+- Share the Reels on our GDG Assiut Facebook page, ensuring they are easily accessible and shareable.
 - Encourage users to like, comment, and share the Reels with their networks.
 - Utilize relevant hashtags and tags to reach a wider audience.
 
@@ -37,5 +37,4 @@
 - Summarize the success of the Reels campaign with a final post.
 - Express gratitude to the viewers, participants, and contributors.
 - Share any notable statistics or achievements from the campaign.
-- Encourage users to continue engaging with your GDG Assiut Facebook page.
-
+- Encourage users to continue engaging with our GDG Assiut Facebook page.
